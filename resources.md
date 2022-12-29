@@ -1,7 +1,9 @@
 Youtube resource -
+Sarang Ravindra Interview + guide
 
-Websites -
+---
+### Websites -
 - Leetcode
 - StackOverflow
 - Reddit
-- Communities
+- Discord Communities
