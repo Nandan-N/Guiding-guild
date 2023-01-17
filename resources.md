@@ -18,3 +18,9 @@ https://missing.csail.mit.edu/
 MIT opencourseware \
 https://ocw.mit.edu/
 
+Getting a gig guide \
+![getting a gig](https://github.com/cassidoo/getting-a-gig#your-resume)
+
+Cybersecurity \
+![Cybersecurity resource list](https://github.com/Hack-with-Github/Awesome-Hacking)
+
