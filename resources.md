@@ -24,3 +24,9 @@ Getting a gig guide \
 Cybersecurity \
 ![Cybersecurity resource list](https://github.com/Hack-with-Github/Awesome-Hacking)
 
+---
+
+### resume 
+[Reddit Engineering resume wiki](https://www.reddit.com/r/EngineeringResumes/comments/m2cc65/new_and_improved_wiki/)
+[Overleaf templates](https://www.overleaf.com/gallery/tagged/cv) - LaTeX resume
+
